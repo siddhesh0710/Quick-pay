@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: quickTip
+razorpay:
+  key: rzp_test_KOnLux8aD2tfJ8
+  secret: x1UnjqaZu7LuKzHc9UBFCLu7
